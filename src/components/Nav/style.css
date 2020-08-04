@@ -1,0 +1,190 @@
+body {
+    background-image: url("bkground3.png");
+    background-size: cover;
+  }
+  
+  /* h1 Properties, mainly highlight color  */
+  h1 {
+    color: whitesmoke;
+    font-family: 'Neuton', serif;
+  }
+  h5 {
+    font-family: 'Neuton', serif;
+  }
+  
+  h8 {
+    color: whitesmoke;
+    font-weight: bold;
+  }
+  
+  p {
+    color: whitesmoke;
+    font-size: 16px;
+    font-family: 'Actor', sans-serif;
+  }
+  
+  .bg-light {
+    background-color: rgba(27, 27, 27, 0.432)!important;
+  }
+  
+  .main-row {
+    display: inline;
+  }
+  
+  /* General Image properties  */
+  img {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    float: left;
+    padding-right: 10px;
+    padding-top: 10px;
+  }
+  
+  .contact-title {
+    color: whitesmoke !important;
+  }
+  
+  #contact-text {
+    color: black
+  }
+  
+  .app-description {
+    padding-top: 10px;
+  }
+  
+  /* ID for Contact Page Submit Button  */
+  #contact-button {
+    margin: 10px;
+  }
+  
+  /* Container Class Width and Margin  */
+  .container {
+    background-color: rgb(37, 37, 37) !important;
+    height: 70%;
+    margin-right: 80%;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    padding-left: 35px;
+    padding-right: 45px;
+    padding-top: 35px;
+    position: relative;
+    width: 60%;
+    border-radius: 2%;
+  }
+  
+  #portfolio-container {
+    padding-bottom: 2%;
+  }
+  
+  #contact-container {
+    background-color: rgb(37, 37, 37) !important;
+    height: 70%;
+    margin-right: 30%;
+    margin-left: 15%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    padding-left: 35px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    position: relative;
+    width: auto;
+  }
+  
+  /* Chea's Profile Image  */
+  #chea-profile {
+    width: 350px;
+    margin: 15px;
+    margin-left: 0px;
+    margin-top: -2px;
+    float: left;
+  }
+  
+  /* Font of Navbar  */
+  .navbar-brand {
+    font-family: serif;
+    color: whitesmoke !important;
+    font-weight: 500;
+  }
+  
+  .nav-link {
+    color: white !important;
+  }
+  
+  .navbar-toggler {
+    background-color: rgba(184, 184, 184, 0) !important;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: rgba(245, 245, 245, 0) !important;
+  }
+  
+  .btn {
+    background-color: rgb(184, 184, 184) !important;
+    border-color: black;
+  }
+  
+  /* Column class  */
+  /* .col {
+    position: center;
+  } */
+  
+  /* Gray Sticky Footer  */
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+  
+  .custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  .custom-toggler.navbar-toggler {
+    /* border-color: rgb(255,255,255); */
+  } 
+  
+  @media screen and (max-width: 768px) {
+    img {
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      float: none;
+    }
+  
+    #chea-profile {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      float: none;
+    }
+  
+  
+    #contact-container {
+      background-color: rgb(37, 37, 37) !important;
+      height: 70%;
+      margin-right: 12%;
+      margin-left: 12%;
+      margin-top: 10%;
+      margin-bottom: 20%;
+      padding-left: 20px;
+      padding-top: 35px;
+      padding-bottom: 35px;
+      position: relative;
+      width: auto;
+      align-content: center;
+    }
+  
+    .container {
+      width: 70%;
+    }
+  }
+  
