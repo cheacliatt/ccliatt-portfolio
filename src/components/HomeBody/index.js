@@ -16,8 +16,8 @@ function HomeBody() {
         <segment class="col-sm-10">
           <img src={Profile} alt="Me" id="chea-profile" />
           <p>
-            My current skillset includes: Javascript, React.js, Node.js,
-            Express.js, MondoDB, and MySQL.
+            My current skillset includes: JavaScript, jQuery, React, Node,
+            Express, MondoDB, and MySQL.
           </p>
           <p>
             I am a Georgia native, originally from Augusta. My hobbies are
