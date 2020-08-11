@@ -17,21 +17,35 @@ function ContactBody() {
                 <br />
                 <a href="tel:+17062515019">(706)251-5019</a>
               </p>
-              <a href="mailto: cheacliatt@gmail.com" className="card-link">
+              <a
+                href="mailto: cheacliatt@gmail.com"
+                className="card-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 cheacliatt@gmail.com
               </a>
               <br />
-              <a href="https://github.com/cheacliatt" className="card-link">
+              <a
+                href="https://github.com/cheacliatt"
+                className="card-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 GitHub
               </a>
               <a
                 href="https://www.linkedin.com/in/chea-cliatt-b2a92b158/"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="card-link"
               >
                 LinkedIn
               </a>
               <a
                 href="https://docs.google.com/document/d/1n9vzIYh6IPkhNoxoLfy_VqRGNaWDyRFiuc6jqUuHyVI/edit?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="card-link"
               >
                 Resume
