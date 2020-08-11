@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f8547439dd004297edffea3cb372ee1",
+    "revision": "7506d380f3d520a94293c751cecb47a3",
     "url": "/ccliatt-portfolio/index.html"
   },
   {
-    "revision": "101ec3f70e0e05b48472",
-    "url": "/ccliatt-portfolio/static/css/main.e5f86315.chunk.css"
+    "revision": "cf4680d788dbaec06ea4",
+    "url": "/ccliatt-portfolio/static/css/main.ea40c028.chunk.css"
   },
   {
-    "revision": "d735eb25ce1d4f875831",
-    "url": "/ccliatt-portfolio/static/js/2.e43b2557.chunk.js"
+    "revision": "ad0c8b63d026a64581b1",
+    "url": "/ccliatt-portfolio/static/js/2.e99334f4.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ccliatt-portfolio/static/js/2.e43b2557.chunk.js.LICENSE.txt"
+    "url": "/ccliatt-portfolio/static/js/2.e99334f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "101ec3f70e0e05b48472",
-    "url": "/ccliatt-portfolio/static/js/main.d6df31da.chunk.js"
+    "revision": "cf4680d788dbaec06ea4",
+    "url": "/ccliatt-portfolio/static/js/main.659e3960.chunk.js"
   },
   {
     "revision": "c2105e6c8ca80aebf7b8",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ccliatt-portfolio/static/media/bkground3.3b34b286.png"
   },
   {
+    "revision": "03f714e954215e284cdbd309faf243e2",
+    "url": "/ccliatt-portfolio/static/media/bookscreenshot.03f714e9.PNG"
+  },
+  {
     "revision": "b0720a8be6caddc91fa09e33f0731ab9",
     "url": "/ccliatt-portfolio/static/media/chea-profile.b0720a8b.PNG"
+  },
+  {
+    "revision": "a3e74acf77abc8fd6de6f5f8ea6dcca0",
+    "url": "/ccliatt-portfolio/static/media/emdirsh.a3e74acf.PNG"
   },
   {
     "revision": "b89374c252721425272373d93e129a1e",

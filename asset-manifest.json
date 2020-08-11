@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/ccliatt-portfolio/static/css/main.e5f86315.chunk.css",
-    "main.js": "/ccliatt-portfolio/static/js/main.d6df31da.chunk.js",
-    "main.js.map": "/ccliatt-portfolio/static/js/main.d6df31da.chunk.js.map",
+    "main.css": "/ccliatt-portfolio/static/css/main.ea40c028.chunk.css",
+    "main.js": "/ccliatt-portfolio/static/js/main.659e3960.chunk.js",
+    "main.js.map": "/ccliatt-portfolio/static/js/main.659e3960.chunk.js.map",
     "runtime-main.js": "/ccliatt-portfolio/static/js/runtime-main.927325b5.js",
     "runtime-main.js.map": "/ccliatt-portfolio/static/js/runtime-main.927325b5.js.map",
-    "static/js/2.e43b2557.chunk.js": "/ccliatt-portfolio/static/js/2.e43b2557.chunk.js",
-    "static/js/2.e43b2557.chunk.js.map": "/ccliatt-portfolio/static/js/2.e43b2557.chunk.js.map",
+    "static/js/2.e99334f4.chunk.js": "/ccliatt-portfolio/static/js/2.e99334f4.chunk.js",
+    "static/js/2.e99334f4.chunk.js.map": "/ccliatt-portfolio/static/js/2.e99334f4.chunk.js.map",
     "index.html": "/ccliatt-portfolio/index.html",
-    "precache-manifest.e3d3ad5c501ebdd913f870e03049b364.js": "/ccliatt-portfolio/precache-manifest.e3d3ad5c501ebdd913f870e03049b364.js",
+    "precache-manifest.11e22ca82805bea89b2cc7155b52914e.js": "/ccliatt-portfolio/precache-manifest.11e22ca82805bea89b2cc7155b52914e.js",
     "service-worker.js": "/ccliatt-portfolio/service-worker.js",
-    "static/css/main.e5f86315.chunk.css.map": "/ccliatt-portfolio/static/css/main.e5f86315.chunk.css.map",
-    "static/js/2.e43b2557.chunk.js.LICENSE.txt": "/ccliatt-portfolio/static/js/2.e43b2557.chunk.js.LICENSE.txt",
+    "static/css/main.ea40c028.chunk.css.map": "/ccliatt-portfolio/static/css/main.ea40c028.chunk.css.map",
+    "static/js/2.e99334f4.chunk.js.LICENSE.txt": "/ccliatt-portfolio/static/js/2.e99334f4.chunk.js.LICENSE.txt",
     "static/media/style.css": "/ccliatt-portfolio/static/media/bkground3.3b34b286.png",
+    "static/media/bookscreenshot.PNG": "/ccliatt-portfolio/static/media/bookscreenshot.03f714e9.PNG",
     "static/media/chea-profile.PNG": "/ccliatt-portfolio/static/media/chea-profile.b0720a8b.PNG",
+    "static/media/emdirsh.PNG": "/ccliatt-portfolio/static/media/emdirsh.a3e74acf.PNG",
     "static/media/movie.PNG": "/ccliatt-portfolio/static/media/movie.b89374c2.PNG",
     "static/media/password.PNG": "/ccliatt-portfolio/static/media/password.2267acae.PNG",
     "static/media/pokess.PNG": "/ccliatt-portfolio/static/media/pokess.1a5072c5.PNG",
@@ -23,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.927325b5.js",
-    "static/js/2.e43b2557.chunk.js",
-    "static/css/main.e5f86315.chunk.css",
-    "static/js/main.d6df31da.chunk.js"
+    "static/js/2.e99334f4.chunk.js",
+    "static/css/main.ea40c028.chunk.css",
+    "static/js/main.659e3960.chunk.js"
   ]
 }
