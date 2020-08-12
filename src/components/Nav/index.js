@@ -23,7 +23,7 @@ function Nav() {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active ml-auto">
-            <Link className="nav-link" to="/ccliatt-portfolio/home">
+            <Link className="nav-link" to="/ccliatt-portfolio/">
               Home
             </Link>
           </li>
