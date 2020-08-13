@@ -23,6 +23,7 @@ function PortfolioBody() {
           <a
             href="https://cac-google-books.herokuapp.com/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Book} alt="Google Books ScreenShot" />
@@ -45,6 +46,7 @@ function PortfolioBody() {
           <a
             href="https://cheacliatt.github.io/gt-employee-directory-cac/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Employee} alt="Employee Directory ScreenShot" />
@@ -69,6 +71,7 @@ function PortfolioBody() {
           <a
             href="https://cheacliatt.github.io/Staying-in-Tonight-Generator/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Movie} alt="Movie Suggestion ScreenShot" />
@@ -91,6 +94,7 @@ function PortfolioBody() {
           <a
             href="https://cheacliatt.github.io/gt-weather-dashboard/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Weather} alt="Weather Forecast ScreenShot" />
@@ -115,6 +119,7 @@ function PortfolioBody() {
           <a
             href="https://cheacliatt.github.io/gt-work-day-scheduler/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Scheduler} alt="Work Scheduler ScreenShot" />
@@ -136,6 +141,7 @@ function PortfolioBody() {
           <a
             href="https://cheacliatt.github.io/gt-password-generator/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Password} alt="Password ScreenShot" />
@@ -159,6 +165,7 @@ function PortfolioBody() {
           <a
             href="https://gt-poketrader.herokuapp.com/"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Pokemon} alt="Pokemon App ScreenShot" />
@@ -180,6 +187,7 @@ function PortfolioBody() {
           <a
             href="https://drive.google.com/file/d/166ca_0bjH4tHpEGkrb_EkgIUOZiyjl8T/view"
             target="_blank"
+            rel="noopener noreferrer"
             className="card-link"
           >
             <img src={Tracker} alt="CLA ScreenShot" />
