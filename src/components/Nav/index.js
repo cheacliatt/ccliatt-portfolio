@@ -5,7 +5,7 @@ import "./style.css";
 function Nav() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/ccliatt-portfolio/">
+      <Link className="navbar-brand" to="/home">
         Chea Cliatt
       </Link>
       <button
@@ -23,17 +23,17 @@ function Nav() {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item active ml-auto">
-            <Link className="nav-link" to="/ccliatt-portfolio/">
+            <Link className="nav-link" to="/home">
               Home
             </Link>
           </li>
           <li className="nav-item ml-auto">
-            <Link className="nav-link" to="/ccliatt-portfolio/contact">
+            <Link className="nav-link" to="/contact">
               Contact Me
             </Link>
           </li>
           <li className="nav-item ml-auto">
-            <Link className="nav-link" to="/ccliatt-portfolio/portfolio">
+            <Link className="nav-link" to="/portfolio">
               Portfolio <span className="sr-only">(current)</span>
             </Link>
           </li>

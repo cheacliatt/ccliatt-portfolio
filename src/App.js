@@ -12,11 +12,10 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path={process.env.PUBLIC_URL + '/'} component={Home} />
-          <Route exact path="/ccliatt-portfolio/home" component={Home} />
-          <Route exact path="/ccliatt-portfolio" component={Home} />
-          <Route exact path="/ccliatt-portfolio/contact" component={Contact} />
-          <Route exact path="/ccliatt-portfolio/portfolio" component={Portfolio} />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/home" component={Home} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/portfolio" component={Portfolio} />
         </Switch>
         <Footer />
       </div>
@@ -24,6 +23,5 @@ function App() {
   );
 }
 
-// {process.env.PUBLIC_URL + '/'}
 
 export default App;
